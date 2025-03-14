@@ -10,5 +10,5 @@
 Thumbs.db
 
 # Ignorar arquivos do editor
-.vscode/
-.idea/
+#.vscode/
+#.idea/
