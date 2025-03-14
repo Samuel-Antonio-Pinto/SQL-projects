@@ -1,4 +1,4 @@
--- Inserção de dados exemplo
+-- Inserção dos dados na tabela clientes
 INSERT INTO clientes VALUES (1, 'Ana Sophia Araújo', 'levicunha@ig.com.br', '2024-04-21');
 INSERT INTO clientes VALUES (2, 'Sarah Viana', 'bazevedo@da.com', '2024-10-16');
 INSERT INTO clientes VALUES (3, 'Theo Viana', 'ana-liviafreitas@gmail.com', '2025-01-01');

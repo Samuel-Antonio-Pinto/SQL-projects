@@ -1,0 +1,14 @@
+# Ignorar arquivos temporários e backups 
+*.zip
+*.bak
+*.tmp
+*.log
+~$*
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do editor
+.vscode/
+.idea/
